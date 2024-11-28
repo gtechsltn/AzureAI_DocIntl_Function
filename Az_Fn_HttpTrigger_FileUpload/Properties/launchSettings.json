@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Az_Fn_HttpTrigger_FileUpload": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7147",
+      "launchBrowser": false
+    }
+  }
+}
